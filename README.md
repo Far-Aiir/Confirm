@@ -87,6 +87,7 @@ It's really easy, all you have to do is type: ```node Run.js```
 
 3: __Yes, I know my code is pretty sloppy, I made this about a year ago for fun when I was still learning JavaScript.__
 
+4: __Yes, I know there are bugs and some commands might not work 100%. But, I lost all interest in this and won't be fixing or continuing this.__
 # Made by Far Aiir#9434 (217215496267890689)
 
 

@@ -1,0 +1,16 @@
+{
+  "token": "YourBotsTokenGoesHere",
+  "logging": "TheChannelYouWantToLogStuffIn",
+  "suggestions": "Your channel for suggestions.",
+  "prefix": "YourPrefix (I used c/)",
+  "ownerID": "YourID",
+  "db": { 
+    "user": "DBUsername",
+    "password": "DBPassword",
+    "DatabaseIP": "localhost",
+    "DatabasePort": "27017",
+    "Database": "YourDBName",
+    "userCollection": "Your collection to save user info. Ex: 'user'.",
+    "PasswordCollection": "Your collection to save server info. Ex: 'confirm'" 
+  }
+}

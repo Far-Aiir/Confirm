@@ -1,3 +1,5 @@
+// Stole file from https://github.com/HazedSPaCEx
+// Idk if it's his or not, just where I found it.
 const mongo = require('mongodb').MongoClient;
 const settings = require('../settings.json');
 const LocalURL = 'mongodb://' + settings.db.DatabaseIP + ':' + settings.db.DatabasePort + '/' + settings.db.Database; // Use only if you're using hosting it locally and not with a VPS.
